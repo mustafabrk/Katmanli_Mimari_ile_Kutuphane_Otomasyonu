@@ -1,0 +1,117 @@
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\Final.exe.config
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\Final.exe
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\Final.pdb
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.AnaForm.resources
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.EmanetIslemleri.resources
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.KitapIslemleri.resources
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.OgrenciIslemleri.resources
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.Properties.Resources.resources
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.exe
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.pdb
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\ZedGraph.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\ZedGraph.xml
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\de\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\es\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\fr\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\hu\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\it\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\ja\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\pt\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\ru\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\sk\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\sv\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\tr\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.csproj.CopyComplete
+D:\Microsoft\Visual Studio\Source\Repos\Görsel Programlama\Final\Final\obj\Debug\Final.Grafik.resources
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\Final.exe.config
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\Final.exe
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\Final.pdb
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\ZedGraph.xml
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.AnaForm.resources
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.EmanetIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.Grafik.resources
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.KitapIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.OgrenciIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.csproj.CopyComplete
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.exe
+C:\Users\M_bur\OneDrive\Masaüstü\Final\obj\Debug\Final.pdb
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\Final.exe.config
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\Final.exe
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\Final.pdb
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\ZedGraph.xml
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.AnaForm.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.EmanetIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.Grafik.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.KitapIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.OgrenciIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.csproj.CopyComplete
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.exe
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Final\obj\Debug\Final.pdb
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\Final.exe.config
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\Final.exe
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\Final.pdb
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\ZedGraph.xml
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.AnaForm.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.EmanetIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.Grafik.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.KitapIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.OgrenciIslemleri.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.Properties.Resources.resources
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.csproj.CopyComplete
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.exe
+C:\Users\M_bur\OneDrive\Masaüstü\192114021_MustafaBurakSert(İ.Ö.)\Proje Kaynak Kodu\obj\Debug\Final.pdb
